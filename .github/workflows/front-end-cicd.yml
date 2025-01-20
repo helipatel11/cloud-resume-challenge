@@ -5,6 +5,10 @@ on:
     branches:
       - main  # Trigger on push to the main branch (adjust as needed)
 
+permissions:
+  id-token: write
+  contents: read
+  
 jobs:
   update_s3:
     runs-on: ubuntu-latest
