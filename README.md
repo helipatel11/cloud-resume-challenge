@@ -18,9 +18,7 @@ It showcases my ability to build a **fully deployed, cloud-native, production-st
 
 # 🌐 Live Demo
 
-(*Replace below once deployed*)
-
-➡️ **[https://your-domain.com](https://resume.helipatel.com/#home)**
+➡️ **[https://resume.helipatel.com](https://resume.helipatel.com/#home)**
 
 ---
 
