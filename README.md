@@ -1,4 +1,3 @@
-# cloud-resume-challenge
 # 🌥️ Cloud Resume Challenge — Full Project
 
 This project is my completed version of the **Cloud Resume Challenge**, following best practices for **AWS, Serverless, IaC, CI/CD, and frontend development**.
